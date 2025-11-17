@@ -59,5 +59,3 @@ Future improvements could include:
 •	Add unit tests for controller input handling
 •	Explore multiplayer/game interaction simulation
 
-🔗 GitHub Repository
-https://github.com/paulamorar/DualSync.git
